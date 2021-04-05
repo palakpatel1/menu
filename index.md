@@ -2,122 +2,50 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Sweets Menu
 
-[Link to another page](./another-page.html).
+| Items            | Quantity | Price   |
+|:-----------------|:---------|:--------|
+| Bombay Ice Halwa | 1 kg     | $30.00  |
+| Mohan Thal       | 1 kg     | $30.00  |
+| Adadiya Paak     | 1 kg     | $30.00  |
+| Magas            | 1 kg     | $30.00  |
+| Barfi            | 1 kg     | $25.00  |
+| Bombay Ice Halwa | 500 gm   | $15.00  |
+| Mohan Thal       | 500 gm   | $15.00  |
+| Adadiya Paak     | 500 gm   | $15.00  |
+| Magas            | 500 gm   | $15.00  |
+| Barfi            | 500 gm   | $13.00  |
 
-There should be whitespace between paragraphs.
+# Snacks Menu
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+| Items            | Quantity | Price   |
+|:-----------------|:---------|:--------|
+| Khandvi          | 1 kg     | $20.00  |
+| Khaman           | 1 kg     | $20.00  |
+| Fulvadi          | 1 kg     | $25.00  |
+| Fafda            | 1 kg     | $25.00  |
+| Khandvi          | 500 gm   | $10.00  |
+| Khaman           | 500 gm   | $10.00  |
+| Fulvadi          | 500 gm   | $13.00  |
+| Fafda            | 500 gm   | $13.00  |
 
-# Header 1
+# Dry Snacks Menu
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+| Items            | Quantity | Price   |
+|:-----------------|:---------|:--------|
+|Test              |1 kg      |$30.00   |
 
-## Header 2
+# Other
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+| Items            | Quantity | Price   |
+|:-----------------|:---------|:--------|
+| Idli Dosa Batter | 2 kg     | $10.00  |
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+# Special Orders
+We also do special orders upon requests so do let us know your order
+requirements
 ```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+We also do special orders upon requests, contact us directly for
+your special order requirements
 ```
