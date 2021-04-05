@@ -3,11 +3,11 @@ layout: default
 ---
 
 # Menu
-[Sweets Menu](#sweets)
-[Snacks Menu](#snacks)
-[Dry Snacks Menu](#dry-snacks)
-[Other Items Menu](#others)
-[Special Orders](#special-orders)
+* [Sweets Menu](#sweets)
+* [Snacks Menu](#snacks)
+* [Dry Snacks Menu](#dry-snacks)
+* [Other Items Menu](#others)
+* [Special Orders](#special-orders)
 
 ## Sweets
 
