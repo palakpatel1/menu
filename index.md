@@ -3,8 +3,13 @@ layout: default
 ---
 
 # Menu
-[Section 1](#section-1)
-## Sweet Menu
+[Sweets Menu](#sweets)
+[Snacks Menu](#snacks)
+[Dry Snacks Menu](#dry-snacks)
+[Other Items Menu](#others)
+[Special Orders](#special-orders)
+
+## Sweets
 
 | Items            | Quantity | Price   |
 |:-----------------|:---------|:--------|
@@ -19,7 +24,7 @@ layout: default
 | Magas            | 500 gm   | $15.00  |
 | Barfi            | 500 gm   | $13.00  |
 
-## Snacks Menu
+## Snacks
 
 | Items            | Quantity | Price   |
 |:-----------------|:---------|:--------|
@@ -32,13 +37,13 @@ layout: default
 | Fulvadi          | 500 gm   | $13.00  |
 | Fafda            | 500 gm   | $13.00  |
 
-[Section 1](#section-1)
+## Dry Snacks
 
 | Items            | Quantity | Price   |
 |:-----------------|:---------|:--------|
 |Test              |1 kg      |$30.00   |
 
-## Other Items
+## Others
 
 | Items            | Quantity | Price   |
 |:-----------------|:---------|:--------|
