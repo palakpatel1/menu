@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Sweets Menu
+# Menu
+[Section 1](#section-1)
+## Sweet Menu
 
 | Items            | Quantity | Price   |
 |:-----------------|:---------|:--------|
@@ -17,7 +19,7 @@ layout: default
 | Magas            | 500 gm   | $15.00  |
 | Barfi            | 500 gm   | $13.00  |
 
-# Snacks Menu
+## Snacks Menu
 
 | Items            | Quantity | Price   |
 |:-----------------|:---------|:--------|
@@ -30,18 +32,19 @@ layout: default
 | Fulvadi          | 500 gm   | $13.00  |
 | Fafda            | 500 gm   | $13.00  |
 
-# Dry Snacks Menu
+[Section 1](#section-1)
 
 | Items            | Quantity | Price   |
 |:-----------------|:---------|:--------|
 |Test              |1 kg      |$30.00   |
 
-# Other
+## Other Items
 
 | Items            | Quantity | Price   |
 |:-----------------|:---------|:--------|
 | Idli Dosa Batter | 2 kg     | $10.00  |
 
-# Special Orders
+## Special Orders
+
 We also do special orders upon requests, contact us directly for
 your special order requirements
