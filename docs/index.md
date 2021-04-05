@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Sweets Menu
+
 | Items            | Quantity | Price   |
 |:-----------------|:---------|:--------|
 | Bombay Ice Halwa | 1 kg     | $30.00  |
@@ -41,6 +42,9 @@ layout: default
 | Idli Dosa Batter | 2 kg     | $10.00  |
 
 # Special Orders
+We also do special orders upon requests so do let us know your order
+requirements
 ```
-We also do special orders upon requests so do let us know your order requirements
+We also do special orders upon requests, contact us directly for your Special
+order requirements
 ```
