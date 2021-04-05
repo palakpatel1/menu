@@ -3,11 +3,15 @@ layout: default
 ---
 
 # Menu
+Get yourself delicious home made gujarati sweets and snacks.
+Everything is made fresh and after your order is confirmed.
+
 * [Sweets Menu](#sweets)
 * [Snacks Menu](#snacks)
 * [Dry Snacks Menu](#dry-snacks)
 * [Other Items Menu](#others)
 * [Special Orders](#special-orders)
+
 
 ## Sweets
 
