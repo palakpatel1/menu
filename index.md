@@ -30,8 +30,9 @@ Everything is made fresh and after your order is confirmed.
 
 | Items            | Quantity | Price   |
 |:-----------------|:---------|:--------|
-| Khandvi          | 1 kg     | $20.00  |
-| Khaman           | 1 kg     | $20.00  |
+| Khandvi          | 1 kg     | $25.00  |
+| Khaman           | 1 kg     | $25.00  |
+| Sev Khamani      | 1 kg     | $25.00  |
 | Fulvadi          | 1 kg     | $25.00  |
 | Fafda            | 1 kg     | $25.00  |
 
