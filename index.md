@@ -17,7 +17,7 @@ Everything is made fresh and after your order is confirmed.
 
 | Items            | Quantity | Price   |
 |:-----------------|:---------|:--------|
-| Bombay Ice Halwa | 1 kg     | $32.00  |
+| Bombay Ice Halwa | 1 kg     | $35.00  |
 | Mathura na Peda  | 1 kg     | $30.00  |
 | Mohan Thal       | 1 kg     | $30.00  |
 | Adadiya Paak     | 1 kg     | $30.00  |
