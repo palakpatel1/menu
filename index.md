@@ -17,13 +17,13 @@ Everything is made fresh and after your order is confirmed.
 
 | Items            | Quantity | Price   |
 |:-----------------|:---------|:--------|
-| Bombay Ice Halwa | 1 kg     | $35.00  |
-| Mathura na Peda  | 1 kg     | $30.00  |
-| Mohan Thal       | 1 kg     | $30.00  |
-| Adadiya Paak     | 1 kg     | $30.00  |
-| Magas            | 1 kg     | $30.00  |
-| Barfi            | 1 kg     | $25.00  |
-| Jalebi           | 1 kg     | $20.00  |
+| Bombay Ice Halwa | 1 kg     | $36.00  |
+| Mathura na Peda  | 1 kg     | $32.00  |
+| Mohan Thal       | 1 kg     | $32.00  |
+| Adadiya Paak     | 1 kg     | $32.00  |
+| Magas            | 1 kg     | $32.00  |
+| Barfi            | 1 kg     | $32.00  |
+| Jalebi           | 1 kg     | $25.00  |
 
 
 ## Snacks
@@ -31,30 +31,30 @@ Everything is made fresh and after your order is confirmed.
 | Items            | Quantity | Price   |
 |:-----------------|:---------|:--------|
 | Khandvi          | 1 kg     | $25.00  |
-| Khaman           | 1 kg     | $25.00  |
-| Sev Khamani      | 1 kg     | $25.00  |
-| Fulvadi          | 1 kg     | $25.00  |
-| Fafda            | 1 kg     | $25.00  |
+| Khaman           | 1 kg     | $28.00  |
+| Sev Khamani      | 1 kg     | $30.00  |
+| Fulvadi          | 1 kg     | $30.00  |
+| Fafda            | 1 kg     | $30.00  |
 
 
 ## Dry Snacks
 
 | Items                | Quantity | Price   |
 |:---------------------|:---------|:--------|
-| Gathiya - Thikha     | 1 kg     | $25.00  |
-| Gathiya - Bhavnagri  | 1 kg     | $25.00  |
-| Gathiya - Champakali | 1 kg     | $25.00  |
-| Chevdo - Poha        | 1 kg     | $25.00  |
-| Chevdo - Corn        | 1 kg     | $25.00  |
-| Farsi Puri           | 1 kg     | $25.00  |
-| Chakri               | 1 kg     | $25.00  |
+| Gathiya - Thikha     | 1 kg     | $30.00  |
+| Gathiya - Bhavnagri  | 1 kg     | $30.00  |
+| Gathiya - Champakali | 1 kg     | $30.00  |
+| Chevdo - Poha        | 1 kg     | $26.00  |
+| Chevdo - Corn        | 1 kg     | $26.00  |
+| Farsi Puri           | 1 kg     | $30.00  |
+| Chakri               | 1 kg     | $30.00  |
 
 
 ## Others
 
 | Items            | Quantity | Price   |
 |:-----------------|:---------|:--------|
-| Idli Dosa Batter | 2 kg     | $10.00  |
+| Idli Dosa Batter | 2 kg     | $12.00  |
 
 
 ## Special Orders
