@@ -31,7 +31,7 @@ Everything is made fresh and after your order is confirmed.
 | Items            | Quantity | Price   |
 |:-----------------|:---------|:--------|
 | Khandvi          | 1 kg     | $25.00  |
-| Khaman           | 1 kg     | $28.00  |
+| Khaman           | 1 kg     | $30.00  |
 | Sev Khamani      | 1 kg     | $30.00  |
 | Fulvadi          | 1 kg     | $30.00  |
 | Fafda            | 1 kg     | $30.00  |
@@ -44,8 +44,8 @@ Everything is made fresh and after your order is confirmed.
 | Gathiya - Thikha     | 1 kg     | $30.00  |
 | Gathiya - Bhavnagri  | 1 kg     | $30.00  |
 | Gathiya - Champakali | 1 kg     | $30.00  |
-| Chevdo - Poha        | 1 kg     | $26.00  |
-| Chevdo - Corn        | 1 kg     | $26.00  |
+| Chevdo - Poha        | 1 kg     | $30.00  |
+| Chevdo - Corn        | 1 kg     | $30.00  |
 | Farsi Puri           | 1 kg     | $30.00  |
 | Chakri               | 1 kg     | $30.00  |
 
